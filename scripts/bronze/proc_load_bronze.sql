@@ -1,6 +1,6 @@
 -- ================================================
--- Author      : Your Name
--- Created On  : YYYY-MM-DD
+-- Author      : Mudita Rastogi
+-- Created On  : 2025-07-18
 -- Procedure   : bronze.load_bronze
 -- Description : Loads raw CSV files from local storage into the Bronze Layer
 --               using BULK INSERT. Logs each load duration and handles errors.
